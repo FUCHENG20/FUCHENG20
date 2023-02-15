@@ -1,4 +1,4 @@
-# Hi there #[![RedSpinningPixelHeart](https://cdn3.emoji.gg/emojis/3140-redspinningpixelheart.gif)](https://emoji.gg/emoji/3140-redspinningpixelheart)
+# Hi there [![pepe_rotate](https://cdn3.emoji.gg/emojis/5730-pepe-rotate.gif)](https://emoji.gg/emoji/5730-pepe-rotate)
 
 ![ Alt text](https://cdn.discordapp.com/attachments/880855919892791336/918390110360338482/BARRA.gif) 
 
