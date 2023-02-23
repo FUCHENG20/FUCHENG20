@@ -1,7 +1,9 @@
 # Hi there [![pepe_rotate](https://cdn3.emoji.gg/emojis/5730-pepe-rotate.gif)](https://emoji.gg/emoji/5730-pepe-rotate)
 
+<div align="center"> <img src="https://64.media.tumblr.com/285461df77db3f38cbd4cac3602df5b8/b338fee2ca757389-62/s2048x3072/0e8552adb5324c9e22b248b145d8de1160c0fa04.pnj"> </div>
 
 <h3 align="center">My Name is Fucheng, I'm from China and I currently live in Mexico.</h3>
+
 
 ![ Alt text](https://cdn.discordapp.com/attachments/880855919892791336/918390110360338482/BARRA.gif) 
 
@@ -27,6 +29,8 @@ Here are some ideas to get you started:
 - 😄 Hobby: I play Video Games and practice volleyball.
 
 - ⚡ Fun fact: ...
+
+
 
 ![ Alt text](https://cdn.discordapp.com/attachments/880855919892791336/918390110360338482/BARRA.gif) 
 
