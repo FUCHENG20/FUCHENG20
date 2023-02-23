@@ -7,7 +7,7 @@
 
 ## - About me -
 
-- 🌱 I am a Systems Engineering student.
+- 👨‍💻 I am a Systems Engineering student.
 
 - 💬 I speak 3 different languages (Chinese, Spanish and English)
 
