@@ -1,6 +1,6 @@
 # Hi there [![pepe_rotate](https://cdn3.emoji.gg/emojis/5730-pepe-rotate.gif)](https://emoji.gg/emoji/5730-pepe-rotate)
 
-<div align="center"> <img src="https://64.media.tumblr.com/285461df77db3f38cbd4cac3602df5b8/b338fee2ca757389-62/s2048x3072/0e8552adb5324c9e22b248b145d8de1160c0fa04.pnj"> </div>
+<div align="center"> <img src="https://64.media.tumblr.com/9b810b647ecc4847d24fd690a19fc8a0/fda038c77ba62e35-9a/s640x960/bfb81ad90777b460cb6856ac431c2456012bd8d0.pnj"> </div>
 
 <h3 align="center">My Name is Fucheng, I'm from China and I currently live in Mexico.</h3>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-#### **- Languages -**
+#### **- LANGUAGES -**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
