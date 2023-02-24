@@ -1,6 +1,6 @@
 # Hi there [![pepe_rotate](https://cdn3.emoji.gg/emojis/5730-pepe-rotate.gif)](https://emoji.gg/emoji/5730-pepe-rotate)
 
-<div align="center"> <img src="https://64.media.tumblr.com/9b810b647ecc4847d24fd690a19fc8a0/fda038c77ba62e35-9a/s640x960/bfb81ad90777b460cb6856ac431c2456012bd8d0.pnj"> </div>
+<div align="center"> <img src="https://64.media.tumblr.com/3878cd02a1b2bef02bf8ce3458e5ae71/fda038c77ba62e35-c7/s2048x3072/6e9c8236fcf56dd315c909b93e699f4d3aed16cd.pnj"> </div>
 
 <h3 align="center">My Name is Fucheng, I'm from China and I currently live in Mexico.</h3>
 
