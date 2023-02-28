@@ -9,7 +9,7 @@
 
 ## - About me -
 
-- 👨‍💻 I am a Systems Engineering student.
+- 👨‍💻 I’m a Computer Engineer student.
 
 - 💬 I speak 3 different languages (Chinese, Spanish and English)
 
@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently working on the development of school projects.
+- 🔭 I’m currently working on the development of school projects.
 
 - 🌱 I’m currently learning Python
 
