@@ -9,7 +9,7 @@
 
 ## - About me -
 
-- 👨‍💻 I’m a Computer Engineer student.
+- 👨‍💻 I’m a Computer Engineering student.
 
 - 💬 I speak 3 different languages (Chinese, Spanish and English)
 
