@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the development of school projects.
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ...
 
 - ❔ Ask me about ...
 
